@@ -19,7 +19,7 @@ IntenTube helps students and professionals use YouTube intentionally by reducing
 
 ### For Regular Users (Recommended)
 1. Go to the **Releases** page of this repository (on the right side).
-2. Download the latest `StudyTube-Release.zip` file.
+2. Download the latest `IntenTube-Extension.zip` file.
 3. Extract the downloaded ZIP file to a folder on your computer.
 4. Open Google Chrome and navigate to `chrome://extensions/`.
 5. Enable **Developer mode** using the toggle in the top right corner.
